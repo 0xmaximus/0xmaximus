@@ -1,19 +1,13 @@
-### Hi there 👋
+### Hi there 👋 
 
-<!--
-**0xmaximus/0xmaximus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+![ezgif-5-3a0d2b687e](https://user-images.githubusercontent.com/63053441/200802460-8ed14f29-aee6-487d-b72e-0533ce1f520d.gif)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me: maximus0xday@gmail.com 
+
 <div align="center">
-![ezgif-5-de6de72ece](https://user-images.githubusercontent.com/63053441/200800491-bddd2dbd-6321-493f-ae23-49e38f6bf28e.gif)
+  
+<img src='https://github-readme-stats.vercel.app/api?username=0xmaximus&show_icons=true&theme=merko' width="400"/>
+<img src='https://github-readme-streak-stats.herokuapp.com/?user=0xmaximus&theme=merko&date_format=M%20j%5B%2C%20Y%5D' width="400"/>
+  
 </div>
