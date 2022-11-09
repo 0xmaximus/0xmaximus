@@ -15,6 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.mp4" width="100"/>
-</div>
+![gif](https://user-images.githubusercontent.com/63053441/200797383-31ebf1f6-c266-47fb-b7b4-bad27ed8f319.png)
