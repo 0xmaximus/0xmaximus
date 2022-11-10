@@ -8,7 +8,7 @@
 
 <div align="center">
   
-<img src='https://github-readme-stats.vercel.app/api?username=0xmaximus&show_icons=true&theme=merko' width="400"/>
+<img src='https://github-readme-stats.vercel.app/api?username=0xmaximus&theme=merko' width="400"/>
 <img src='https://github-readme-streak-stats.herokuapp.com/?user=0xmaximus&theme=merko' width="400"/>
   
 </div>
