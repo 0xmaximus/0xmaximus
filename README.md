@@ -5,6 +5,7 @@
 ![ezgif-5-3a0d2b687e](https://user-images.githubusercontent.com/63053441/200802460-8ed14f29-aee6-487d-b72e-0533ce1f520d.gif)
 
 - 📫 How to reach me: maximus0xday@gmail.com 
+- 🌎 ![](https://visitor-badge.glitch.me/badge?page_id=0xmaximus)
 
 <div align="center">
  
