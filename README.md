@@ -6,6 +6,7 @@
 
 - 📫 How to reach me: maximus0xday@gmail.com 
 <!-- - 🌎 ![](https://visitor-badge.glitch.me/badge?page_id=0xmaximus) -->
+<!-- - 🌎 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2F0xmaximus&countColor=%23263759) -->
 <img src='https://github-readme-stats.vercel.app/api?username=0xmaximus&theme=merko' width="400"/>
 
 <div align="center">
